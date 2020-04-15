@@ -26,8 +26,8 @@ be a complete runnable example at https://play.golang.org/.
 ### What version of Go and bíogo/hts are you using?
 <!--
 Paste the output of `go version` and if you are installing bíogo from source, paste
-the output of `(cd $(go env GOPATH)/src/github.com/biogo/hts && git rev-parse HEAD)`.
-If you are using modules, also paste the output of `grep github.com/biogo/hts go.sum`,
+the output of `(cd $(go env GOPATH)/src/github.com/matty234/hts && git rev-parse HEAD)`.
+If you are using modules, also paste the output of `grep github.com/matty234/hts go.sum`,
 executed in the root of your dependent module.
 -->
 

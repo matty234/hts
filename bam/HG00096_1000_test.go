@@ -4,7 +4,7 @@ import (
 	"net/url"
 	"time"
 
-	"github.com/biogo/hts/sam"
+	"github.com/matty234/hts/sam"
 )
 
 var headerHG00096_1000 *sam.Header

@@ -2,11 +2,11 @@
 
 # HTS
 
-[![Build Status](https://travis-ci.org/biogo/hts.svg?branch=master)](https://travis-ci.org/biogo/hts) [![GoDoc](https://godoc.org/github.com/biogo/hts?status.svg)](https://godoc.org/github.com/biogo/hts)
+[![Build Status](https://travis-ci.org/biogo/hts.svg?branch=master)](https://travis-ci.org/biogo/hts) [![GoDoc](https://godoc.org/github.com/matty234/hts?status.svg)](https://godoc.org/github.com/matty234/hts)
 
 ## Installation
 
-        $ go get github.com/biogo/hts/...
+        $ go get github.com/matty234/hts/...
 
 ## Overview
 
@@ -30,9 +30,9 @@ import (
 	"log"
 	"os"
 
-	"github.com/biogo/hts/bam"
-	"github.com/biogo/hts/bgzf"
-	"github.com/biogo/hts/sam"
+	"github.com/matty234/hts/bam"
+	"github.com/matty234/hts/bgzf"
+	"github.com/matty234/hts/sam"
 )
 
 var (

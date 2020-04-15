@@ -10,7 +10,7 @@ import (
 	"fmt"
 	"strconv"
 
-	"github.com/biogo/hts/internal"
+	"github.com/matty234/hts/internal"
 )
 
 // Record represents a SAM/BAM record.

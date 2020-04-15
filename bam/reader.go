@@ -12,8 +12,8 @@ import (
 	"io"
 	"unsafe"
 
-	"github.com/biogo/hts/bgzf"
-	"github.com/biogo/hts/sam"
+	"github.com/matty234/hts/bgzf"
+	"github.com/matty234/hts/sam"
 )
 
 // Reader implements BAM data reading.

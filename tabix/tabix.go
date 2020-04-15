@@ -12,9 +12,9 @@ import (
 	"io"
 	"strings"
 
-	"github.com/biogo/hts/bgzf"
-	"github.com/biogo/hts/bgzf/index"
-	"github.com/biogo/hts/internal"
+	"github.com/matty234/hts/bgzf"
+	"github.com/matty234/hts/bgzf/index"
+	"github.com/matty234/hts/internal"
 )
 
 // Index is a tabix index.

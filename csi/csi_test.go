@@ -8,8 +8,8 @@ import (
 	"bytes"
 	"testing"
 
-	"github.com/biogo/hts/bgzf"
-	"github.com/biogo/hts/bgzf/index"
+	"github.com/matty234/hts/bgzf"
+	"github.com/matty234/hts/bgzf/index"
 
 	"gopkg.in/check.v1"
 )

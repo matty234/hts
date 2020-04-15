@@ -23,8 +23,8 @@ import (
 	"testing"
 	"time"
 
-	. "github.com/biogo/hts/bgzf"
-	"github.com/biogo/hts/bgzf/cache"
+	. "github.com/matty234/hts/bgzf"
+	"github.com/matty234/hts/bgzf/cache"
 )
 
 var (
@@ -291,7 +291,7 @@ func TestRoundTripMulti(t *testing.T) {
 	r.Close()
 }
 
-// See https://github.com/biogo/hts/issues/57
+// See https://github.com/matty234/hts/issues/57
 func TestHeaderIssue57(t *testing.T) {
 	var stamp time.Time
 	if !go1_8 {

@@ -12,8 +12,8 @@ import (
 	"os"
 	"sort"
 
-	"github.com/biogo/hts/bam"
-	"github.com/biogo/hts/sam"
+	"github.com/matty234/hts/bam"
+	"github.com/matty234/hts/sam"
 )
 
 func ExampleMerger_sortByCoordinate() {

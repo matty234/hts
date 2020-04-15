@@ -11,7 +11,7 @@ import (
 	"sort"
 	"testing"
 
-	"github.com/biogo/hts/sam"
+	"github.com/matty234/hts/sam"
 )
 
 type byFunc struct {

@@ -51,7 +51,7 @@ sys	0m5.648s
 
 and of this command (Go 1.8) on the same file is:
 ```
-$ go build github.com/biogo/hts/paper/examples/flagstat
+$ go build github.com/matty234/hts/paper/examples/flagstat
 $ export GOMAXPROCS=1
 $ time ./flagstat 9827_2#49.bam
 56463236 + 0 in total (QC-passed reads + QC-failed reads)
